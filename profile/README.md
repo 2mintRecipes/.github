@@ -1,4 +1,4 @@
-## Hi there 👋
+## `2mint Recipes` 👋
 
 <!--
 
